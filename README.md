@@ -13,10 +13,10 @@ A minimal and responsive Todo List application built using **React** and **Tailw
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/) (for fast development)
+- [Vite](https://vitejs.dev/)
 
 ## 📸 Screenshots
-[Preview](src/assets/preview.png)
+![Preview](src/assets/preview.png)
 
 ## 🧪 Testing
 No formal tests added. You can add unit tests using tools like Vitest or React Testing Library.
